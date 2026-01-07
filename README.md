@@ -11,3 +11,6 @@ Roll No : 25118071
 
 # DAY 2:EVENT
 <img width="1920" height="913" alt="Image" src="https://github.com/user-attachments/assets/187a74ec-14c0-425b-9ffc-8fa49bd7cc4f" />
+
+# DAY 7
+<img width="1920" height="913" alt="Image" src="https://github.com/user-attachments/assets/700d9b09-a071-4f7c-a334-6979e6670164" />
